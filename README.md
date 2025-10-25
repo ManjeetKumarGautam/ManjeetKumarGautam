@@ -8,7 +8,6 @@
 - 🌱 Learning **Docker** and exploring **DevOps tools**  
 - 💻 Skilled in **MERN Stack (MongoDB, Express.js, React.js, Node.js)**  
 - 🧠 Built several projects including:  
-  - 📝 **Todo List App**  
   - 🛍️ **E-Commerce API System**  
   - 🍽️ **Online Food Ordering System**  
   - 🍳 **Recipe Management System**  
